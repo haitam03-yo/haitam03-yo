@@ -1,7 +1,7 @@
 # 👋 Bienvenue sur mon profil GitHub  
 
 👨‍🎓 **Étudiant en ingénierie à l'ENSA Safi** | 🎯 **Spécialisation : Data Engineering et Intelligence Artificielle**  
-🌟 **AI Enthusiast | Tech Professional | Créateur de solutions innovantes**
+🌟 **Passionné d'IA | Professionnel de la Tech | Créateur de solutions innovantes**
 
 ---
 
@@ -15,29 +15,29 @@ Je suis toujours à la recherche de nouveaux défis et d'opportunités pour rés
 
 ## 💡 Projets et Réalisations  
 
-### 🏆 **Machine Learning Competition** (2 mois)  
-- **Achievement** : Secured 2nd place in a ML competition.  
-- **National Phase** : Prévision de la demande énergétique en Afrique en intégrant des variables clés telles que l'exposition au soleil, la population et les infrastructures énergétiques.  
-- **Final Phase** : Prédiction des ventes futures pour une entreprise à l'aide de données historiques.  
-  - Utilisation des Gradient-Boosted Decision Trees (GBDT) et d'AutoML pour des performances optimales.  
-  - Création d'une API avec **FastAPI** pour livrer les prévisions efficacement.  
+### 🏆 **Compétition de Machine Learning** (2 mois)  
+- **Réussite** : 2ᵉ place dans une compétition de Machine Learning.  
+- **Phase Nationale** : Prédiction de la demande énergétique en Afrique en intégrant des variables clés comme l'exposition au soleil, la population et les infrastructures énergétiques.  
+- **Phase Finale** : Prédiction des ventes futures pour une entreprise à partir de données historiques.  
+  - Utilisation des Gradient-Boosted Decision Trees (GBDT) et d'AutoML pour obtenir des performances optimales.  
+  - Développement d'une API avec **FastAPI** pour fournir les prévisions efficacement.  
 
 ### 🛒 **Développement d'une boutique e-commerce** (4 mois)  
-- Conception et développement d'une boutique e-commerce complète à partir de zéro en **PHP natif**, **JavaScript**, **CSS**, et **HTML**.  
-- Implémentation d'un système de recommandation basé sur KNN pour suggérer des produits pertinents aux utilisateurs.  
-- Développement d'un tableau de bord d'administration pour gérer les produits, les commandes et les analyses.  
+- Conception et développement complet d'une boutique e-commerce en **PHP natif**, **JavaScript**, **CSS** et **HTML**.  
+- Implémentation d'un système de recommandation basé sur KNN pour proposer des produits pertinents aux utilisateurs.  
+- Création d'un tableau de bord pour gérer les produits, commandes et analyses.  
 
 ### 📦 **Système de gestion de stock** (3 mois)  
 - Développement d'un système de gestion de stock en **C**.  
-- Mise en œuvre démontrant des compétences en créativité, résolution de problèmes et expertise en programmation.  
+- Mise en œuvre démontrant la créativité, la résolution de problèmes et une expertise en programmation.  
 
 ---
 
 ## 🎯 Objectifs et Aspirations  
 
-- Participer à des projets qui intègrent l'IA pour résoudre des problèmes concrets.  
-- Collaborer avec des experts du domaine de la data science et de l'IA.  
-- Continuer à apprendre et à expérimenter avec des technologies émergentes.  
+- Participer à des projets intégrant l'IA pour résoudre des problèmes concrets.  
+- Collaborer avec des experts en science des données et en intelligence artificielle.  
+- Continuer à apprendre et expérimenter avec des technologies émergentes.  
 
 ---
 
